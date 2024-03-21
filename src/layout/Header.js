@@ -187,7 +187,8 @@ const Menu = () => {
                     </a>
                   </Link>
                 </li>
-                <li className="menu-item">
+                {/* No data related to Work_Single */}
+                {/* <li className="menu-item">
                   <Link href="/work_single">
                     <a>
                       <span className="mask-lnk">Work Single</span>
@@ -216,7 +217,7 @@ const Menu = () => {
                       </span>
                     </a>
                   </Link>
-                </li>
+                </li> */}
               </ul>
             </li>
 
